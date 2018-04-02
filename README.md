@@ -25,7 +25,7 @@
 1.	Все настройки платежной системы находятся в модуле ECommerce. По адресу /wp-admin/options-general.php?page=wpsc-settings. "Настройки -> Магазин -> Платежи".
 ![0](http://cloud2.web-sputnik.com/git/img2.png)
 2.	Далее выбираем из списка платежную систему "Cloudpayments" и переходим в настройки
-![0](http://cloud.websputnik.su/git/img3.png)
+![0](http://cloud2.web-sputnik.com/git/img3.png)
 Заполняем:
 - «Public ID»
 - «Пароль для API», и выбираем «Тип схемы проведения платежей»
